@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Get Blue Badge Now",
+  "name": "Join to build trust with your audience",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "facebook_logo_icon_147291.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
